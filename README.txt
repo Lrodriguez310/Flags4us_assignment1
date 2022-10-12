@@ -140,3 +140,20 @@ ________________________________________________________________________________
 
     Models -> Class -> flags.cs
 
+
+    12:37pm - updated the startup.cs to  public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddDbContext<MvcFlagsContext>(options =>
+                options.UseSqlServer(
+                    Configuration.GetConnectionString("MvcFlagsContext")));
+            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                .AddEntityFrameworkStores<MvcFlagsContext>();
+            services.AddControllersWithViews();
+            services.AddRazorPages();
+
+12:38 pm added an mvcFlags context.cs into the data folder.
+
+
+12:41pm added "Server=(localdb)\\mssqllocaldb;Database=MvcFlagsContext-1;Trusted_Connection=True;MultipleActiveResultSets=true" to appsetting.json
+
+12:52 pm added a scaffolding by right clicking controllers and going into MVC Controller with views, using Entity Framework > Add.
