@@ -157,3 +157,25 @@ ________________________________________________________________________________
 12:41pm added "Server=(localdb)\\mssqllocaldb;Database=MvcFlagsContext-1;Trusted_Connection=True;MultipleActiveResultSets=true" to appsetting.json
 
 12:52 pm added a scaffolding by right clicking controllers and going into MVC Controller with views, using Entity Framework > Add.
+
+
+1:45pm had a hard time accessing the Crud pages but eventually changed the asp controller to Flags which lead me to the crud pages needed for the project.
+
+
+1:52pm Created a SeedData under models.
+
+2:03pm creating SeedData for the visitors.
+
+
+2:05pm   new Flags
+                    {
+                        ProductName = "New Orleans Flag",
+                        ReleaseDate = DateTime.Parse("1989-2-12"),
+                        Size = "Big",
+                        Edible = "yes",
+                        Review = "Excellent",
+                        Color = "Purple",
+                        Price = 200.00M
+                    },
+
+2:17pm finished adding all of the seedData and wow did that take long... SHESSSSSSSSSSSSSSSSSSSSSSSSHHHHHHHHHHHHHHHHHHHHH
