@@ -1,8 +1,12 @@
 ﻿Programmer name: Luis Rodriguez
+
 Company name: Flags4us
+
 Program purpose: To create a program to sell flags and show everyone the types of flags in stock and detail about each flag
+
 Date created: 10/12/2022
-Date last edited: 10//2022
+
+Date last edited: 10/*/2022
 
 
    (`'`'`'`')
@@ -58,7 +62,7 @@ Date last edited: 10//2022
   |           ------, 
   |  _       ______/ 
   | (_      /   \  \
-  |        /  ___\_ \ ======= (I need stone flags!)    
+  |        /  ___\_ \ ======= (I need stone flags)    
   |        \      / / 
 __|_________\______/
 \______________\./__\   
@@ -66,7 +70,11 @@ __|_________\______/
  \    /_\   .  |  \ |\     
  |`\       /_\ |   \| \
 ______________________________________________________________________________________________________________________________________________________________________________________________________
- 9:30am Project Start
+ 9:30am - Project Start
  
- 9:37am I will begin by commenting out the  // "sslPort": 44367 under properties -> launchSettings.json 
+ 9:37am - I will begin by commenting out the  // "sslPort": 44367 under properties -> launchSettings.json 
+
+ 10:00 am - linked project to github using git and add new repository: this will help back up my project
+
+ 10:20 am - 
 
