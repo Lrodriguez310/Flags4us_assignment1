@@ -23,6 +23,13 @@ namespace Flags4us_assignment1.Controllers
             return View();
         }
 
+        public IActionResult AboutUs()
+        {
+            return View();
+        }
+
+
+
         public IActionResult Privacy()
         {
             return View();

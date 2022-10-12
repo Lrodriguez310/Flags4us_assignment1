@@ -76,5 +76,27 @@ ________________________________________________________________________________
 
  10:00 am - linked project to github using git and add new repository: this will help back up my project
 
- 10:20 am - 
+ 10:20 am - added an About us page by making a .cshtml file and named it "AboutUS" @*
+    
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "About Us";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+10:32 am - had trouble viewing the about us page so I added something to the HomeController.cs 
+  public IActionResult AboutUs()
+        {
+            return View();
+        }
+
+
+10:40 am - went to layout.cshtml and put in a navigation for the about us page
+<li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AboutUs">About us</a>
+                        </li>
+
+10:50 am - added text to the about us page talking about our company Flags 4 Us
 
