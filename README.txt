@@ -100,3 +100,5 @@ ________________________________________________________________________________
 
 10:50 am - added text to the about us page talking about our company Flags 4 Us
 
+11:28 am - about us page is full of text and I will be adding more to it later.
+
