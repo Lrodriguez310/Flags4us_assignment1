@@ -23,6 +23,19 @@ namespace Flags4us_assignment1.Controllers
             return View();
         }
 
+
+
+        public IActionResult Catalogue()
+        {
+            return View();
+        }
+
+
+
+
+
+
+
         public IActionResult AboutUs()
         {
             return View();

@@ -102,3 +102,8 @@ ________________________________________________________________________________
 
 11:28 am - about us page is full of text and I will be adding more to it later.
 
+
+11:44 am - added a catalogue in the navigation bar and then hyperlinked the title of the index page to the catalogue.
+
+11:49 am - I have also hyperlinked the title of the app to go into the catalogue page.
+
