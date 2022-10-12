@@ -107,3 +107,36 @@ ________________________________________________________________________________
 
 11:49 am - I have also hyperlinked the title of the app to go into the catalogue page.
 
+
+12:19 pm - added a flags.cs and put in: public int Id { get; set; }
+
+        //   [Display(Name = "Product Name")]
+        //   [StringLength(60, MinimumLength = 3)]
+        //  [Required]
+        public string ProductName { get; set; }
+
+
+        //   [Display(Name = "Product Description ")]
+        //   [Required]
+
+        [DataType(DataType.Date)]
+        public DateTime ReleaseDate { get; set; }
+
+        //  [StringLength(30)]
+        public string Size { get; set; }
+
+        public string Edible {get; set;}
+
+        public string Review { get; set; } 
+
+       // [StringLength(30)]
+        public string Color { get; set; }
+
+      //  [Range(1, 20)]
+       // [DataType(DataType.Currency)]
+        //[Column(TypeName = "decimal(18, 2)")]
+        public decimal Price { get; set; }
+    }
+
+    Models -> Class -> flags.cs
+
