@@ -198,6 +198,9 @@ Date: 10 13 2022
 2:02pm added another image <img src="~/Img/stoneflag.png" /> to the index home page
 
 
+2:13pm I changed the font of the front page to make the brand stick out a bit more.
+
+
 
                                          !!!!!!!!!!!!!!!!!!!TIME FOR ALL ThE CHARTS!!!!!!!!!!!!!!!!!!!
                                                        ──────────────────────────────────  
