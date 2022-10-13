@@ -200,6 +200,10 @@ Date: 10 13 2022
 
 2:13pm I changed the font of the front page to make the brand stick out a bit more.
 
+5:25pm  Added a bunch of images that I created on paint and linked them to the about us page and the home page.
+
+6:00pm I updated the css page by adding colors background colors gradients pictures.
+
 
 
                                          !!!!!!!!!!!!!!!!!!!TIME FOR ALL ThE CHARTS!!!!!!!!!!!!!!!!!!!
