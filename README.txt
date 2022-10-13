@@ -184,6 +184,15 @@ ________________________________________________________________________________
 
 2:17pm finished adding all of the seedData and wow did that take long... SHESSSSSSSSSSSSSSSSSSSSSSSSHHHHHHHHHHHHHHHHHHHHH
 
+Date: 10 13 2022
+
+12:20PM - ADDED display name Release date instead of ReleaseDate to flag.cs and added currency and datatype to the seeddata
+
+
+1:13 pm added a rating system to my project bad being the worst average being average and excellent being great quality.
+     Updated migrations
+
+
 
                                          !!!!!!!!!!!!!!!!!!!TIME FOR ALL ThE CHARTS!!!!!!!!!!!!!!!!!!!
                                                        ──────────────────────────────────  

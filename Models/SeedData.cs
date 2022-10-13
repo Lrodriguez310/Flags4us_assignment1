@@ -29,7 +29,7 @@ namespace Flags4us_assignment1.Models
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Size = "Big",
                         Edible = "yes",
-                        Review = "Excellent",
+                        Review = "Excellent - 5 stars",
                         Color = "Purple",
                         Price = 200.00M
                     },
@@ -40,7 +40,7 @@ namespace Flags4us_assignment1.Models
                         ReleaseDate = DateTime.Parse("2004-5-17"),
                         Size = "Medium",
                         Edible = "yes",
-                        Review = "Average",
+                        Review = "average - 3 stars",
                         Color = "Brown and White",
                         Price = 700.00M
                     },
@@ -52,7 +52,7 @@ namespace Flags4us_assignment1.Models
                         ReleaseDate = DateTime.Parse("1995-6-10"),
                         Size = "small",
                         Edible = "No",
-                        Review = "poor",
+                        Review = "bad - 1 star",
                         Color = "black and red",
                         Price = 90.50M
                     },
@@ -64,7 +64,7 @@ namespace Flags4us_assignment1.Models
                         ReleaseDate = DateTime.Parse("1988-4-28"),
                         Size = "Enormous",
                         Edible = "NO",
-                        Review = "Excellent",
+                        Review = "Excellent - 5 stars",
                         Color = "White and Blue",
                         Price = 5000.99M
                     },
@@ -75,7 +75,7 @@ namespace Flags4us_assignment1.Models
                         ReleaseDate = DateTime.Parse("1949-2-22"),
                         Size = "Big",
                         Edible = "yes",
-                        Review = "Excellent",
+                        Review = "Excellent - 5 stars",
                         Color = "Brown",
                         Price = 20.00M
                     },
@@ -85,8 +85,8 @@ namespace Flags4us_assignment1.Models
                         ProductName = "Stone Flag",
                         ReleaseDate = DateTime.Parse("1789-9-13"),
                         Size = "Big",
-                        Edible = "Maybe",
-                        Review = "Excellent",
+                        Edible = "no",
+                        Review = "Excellent - 5 stars",
                         Color = "Grey",
                         Price = 6700.50M
                     },
@@ -97,7 +97,7 @@ namespace Flags4us_assignment1.Models
                         ReleaseDate = DateTime.Parse("1987-10-14"),
                         Size = "Big",
                         Edible = "No",
-                        Review = "Excellent",
+                        Review = "Excellent - 5 stars",
                         Color = "Yellow and Green",
                         Price = 2000.00M
                     },
@@ -108,7 +108,7 @@ namespace Flags4us_assignment1.Models
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Size = "Big",
                         Edible = "No",
-                        Review = "Poor",
+                        Review = "bad - 1 star",
                         Color = "Orange",
                         Price = 1200.00M
                     },
@@ -122,7 +122,7 @@ namespace Flags4us_assignment1.Models
                         ReleaseDate = DateTime.Parse("2000-10-10"),
                         Size = "Medium",
                         Edible = "No",
-                        Review = "Excellent",
+                        Review = "Excellent - 5 stars",
                         Color = "Pink",
                         Price = 1500.00M
                     },
@@ -133,7 +133,7 @@ namespace Flags4us_assignment1.Models
                         ReleaseDate = DateTime.Parse("1994-11-30"),
                         Size = "Big",
                         Edible = "yes",
-                        Review = "poor",
+                        Review = "bad - 0 stars",
                         Color = "Beige",
                         Price = 5200.00M
                     },
@@ -144,7 +144,7 @@ namespace Flags4us_assignment1.Models
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Size = "Big",
                         Edible = "No",
-                        Review = "Excellent",
+                        Review = "Excellent - 5 stars",
                         Color = "Grass Green",
                         Price = 1900.00M
                     }

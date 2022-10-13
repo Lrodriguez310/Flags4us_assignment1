@@ -20,8 +20,15 @@ namespace Flags4us_assignment1.Controllers
         }
 
         // GET: Flags
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
+            var flags = from m in _context.Flags
+                        select m;
+
+            if(!String.IsNullOrEmpty(searchString))
+            {
+                flags = flags.Where(s => s.ProductName.Contains(searchString));
+            }
             return View(await _context.Flags.ToListAsync());
         }
 
