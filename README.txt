@@ -9,6 +9,10 @@ Date created: 10/12/2022
 Date last edited: 10/*/2022
 
 
+ASCII art is open for everyone to use I do not own and I did not create any of the art below this line____________
+The art was taken from this site www.asciiart.eu
+
+
    (`'`'`'`')
     |      |
     |      |
