@@ -8,6 +8,18 @@ a.navbar-brand {
  
 }
 
+.navbar-brand {
+    font-family:Onyx;
+    font-weight:500;
+    font-size:50px;
+}
+
+
+li {
+    font-family: fantasy;
+    font-weight: 400;
+}
+
 
 
 
@@ -83,6 +95,9 @@ body {
 .nav-item {
  background-color:bisque;
 }
+
+
+
 
 
 

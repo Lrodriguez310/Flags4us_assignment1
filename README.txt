@@ -193,6 +193,11 @@ Date: 10 13 2022
      Updated migrations
 
 
+1:54 pm added an image to about us <img src="~/Img/pizzaflag.png" />
+
+2:02pm added another image <img src="~/Img/stoneflag.png" /> to the index home page
+
+
 
                                          !!!!!!!!!!!!!!!!!!!TIME FOR ALL ThE CHARTS!!!!!!!!!!!!!!!!!!!
                                                        ──────────────────────────────────  
