@@ -3,8 +3,9 @@ Programmer name: Luis Rodriguez
 Company name: Flags4us
 
 Program purpose: To create a program to sell flags and show everyone the types of flags in stock and detail about each flag
+                 To show my visitors an entire catalogue of flags that they can purchase.
 
-Date created: 10/12/2022
+Date created: 10/12/2022 8:10 am
 
 Date last edited: 10/14/2022 @3:24pm
 
@@ -42,6 +43,10 @@ The art was taken from this site www.asciiart.eu
 
 
 
+KEEP SCROLLING ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  KEEP SCROLLING ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  KEEP SCROLLING ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
  We have the flags!
   |        
    \___     (_:..'"=
@@ -59,7 +64,7 @@ The art was taken from this site www.asciiart.eu
  ''''      '-''-'-'.__)-'
 
 
-
+KEEP SCROLLING ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   KEEP SCROLLING ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     KEEP SCROLLING ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
   \/________________        
@@ -77,13 +82,45 @@ __|_________\______/
  \    /_\   .  |  \ |\     
  |`\       /_\ |   \| \
 ______________________________________________________________________________________________________________________________________________________________________________________________________
+ 
+ 
+ 
+ 
  9:30am - Project Start
          I began by setting up the mvc file so that I can do the project with no problems/ individual accounts 
+
+9:32am - I'm currently sick but will do my best to get all of this done NO EXcuses! 
+         I remember in class when the professor told us to click on certain things to make this assignment work. 
+         Ah yes I need to comment out something so that I can access my page.
  
  9:37am - I will begin by commenting out the  // "sslPort": 44367 under properties -> launchSettings.json 
           This will allow me to view the page with no issues
 
  10:00 am - linked project to github using git and add new repository: this will help back up my project
+
+ 10:10 am - oh no I have no idea how to link the about us to the nav bar... 
+
+ 10:15 am I need to go under the layout and add in the about us in between privacy and home
+          I then need to add a part inside the homecontroller so that everyone can come together
+
+10:18 am YES!!! finally it worked!! I can now access my about us page!  LETS GOO!!!
+
+                          (####)
+                        (#######)
+                      (#########)
+                     (#########)
+                    (#########)
+                   (#########)
+   __&__          (#########)
+  /     \        (#########)   |\/\/\/|     /\ /\  /\               /\
+ |       |      (#########)    |      |     | V  \/  \---.    .----/  \----.
+ |  (o)(o)       (o)(o)(##)    |      |      \_        /       \          /
+ C   .---_)    ,_C     (##)    | (o)(o)       (o)(o)  <__.   .--\ (o)(o) /__.
+  | |.___|    /___,   (##)     C      _)     _C         /     \     ()     /
+  |  \__/       \     (#)       | ,___|     /____,   )  \      >   (C_)   <
+  /_____\        |    |         |   /         \     /----'    /___\____/___\
+ /_____/ \       OOOOOO        /____\          ooooo             /|    |\
+/         \     /      \      /      \        /     \           /        \
 
  10:20 am - added an About us page by making a .cshtml file and named it "AboutUS" @*
     
@@ -257,7 +294,9 @@ Date: 10 13 2022
 2:02pm added another image <img src="~/Img/stoneflag.png" /> to the index home page
 
 
-
+2:07 pm images look a little too big I might have to add a style and reduce their size style="width: 200px; height: 200px;"
+     I think this size would work but we will know for sure as I progress
+     and boy does the background color look plain I will have to fix that up and then edit some of the text.
 
 
 
