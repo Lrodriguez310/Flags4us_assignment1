@@ -78,8 +78,10 @@ __|_________\______/
  |`\       /_\ |   \| \
 ______________________________________________________________________________________________________________________________________________________________________________________________________
  9:30am - Project Start
+         I began by setting up the mvc file so that I can do the project with no problems/ individual accounts 
  
  9:37am - I will begin by commenting out the  // "sslPort": 44367 under properties -> launchSettings.json 
+          This will allow me to view the page with no issues
 
  10:00 am - linked project to github using git and add new repository: this will help back up my project
 
@@ -192,7 +194,8 @@ _____██░░░░░░░░░██
 
 1:52pm Created a SeedData under models.
 
-2:03pm creating SeedData for the visitors.
+2:03pm creating SeedData for the visitors to see 7 different attributes for the product I'm selling.
+       I will make a product name, review, price, release date, size, color, and if the product is edible or not.
 
 
 
