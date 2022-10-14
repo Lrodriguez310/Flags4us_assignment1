@@ -236,9 +236,10 @@ _____██░░░░░░░░░██
                         Review = "Excellent",
                         Color = "Purple",
                         Price = 200.00M
-                    },
+                   }
 
 2:17pm finished adding all of the seedData and wow did that take long... SHESSSSSSSSSSSSSSSSSSSSSSSSHHHHHHHHHHHHHHHHHHHHH
+
 
 Date: 10 13 2022
 
@@ -256,6 +257,9 @@ Date: 10 13 2022
 2:02pm added another image <img src="~/Img/stoneflag.png" /> to the index home page
 
 
+
+
+
 2:13pm I changed the font of the front page to make the brand stick out a bit more.
 
 5:25pm  Added a bunch of images that I created on paint and linked them to the about us page and the home page.
@@ -264,6 +268,21 @@ Date: 10 13 2022
 
 
 9:05pm I updated the fonts again to make it look a little better and centered the text and pictures along with the h1 element to make it look like a button.
+
+
+
+
+░░░░░░░░░░▄▄█▀▀▄░░░░
+░░░░░░░░▄█████▄▄█▄░░░░
+░░░░░▄▄▄▀██████▄▄██░░░░
+░░▄██░░█░█▀░░▄▄▀█░█░░░▄▄▄▄
+▄█████░░██░░░▀▀░▀░█▀▀██▀▀▀█▀▄
+█████░█░░▀█░▀▀▀▀▄▀░░░███████▀
+░▀▀█▄░██▄▄░▀▀▀▀█▀▀▀▀▀░▀▀▀▀
+░▄████████▀▀▀▄▀░░░░
+██████░▀▀█▄░░░█▄░░░░
+░▀▀▀▀█▄▄▀░██████▄░░░░
+░░░░░░░░░█████████░░░░
 
 
 10/14/2022
