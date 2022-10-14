@@ -260,7 +260,12 @@ Date: 10 13 2022
 
 
 
+
 2:13pm I changed the font of the front page to make the brand stick out a bit more.
+
+3:00pm I will now make several flags for the website so that it can look nice and the visitor can get their selection.
+
+4:12pm finished with my art work I will now upload them to the img folder under the wwroot folder.
 
 5:25pm  Added a bunch of images that I created on paint and linked them to the about us page and the home page.
 
