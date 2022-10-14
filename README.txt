@@ -205,6 +205,9 @@ Date: 10 13 2022
 6:00pm I updated the css page by adding colors background colors gradients pictures.
 
 
+9:05pm I updated the fonts again to make it look a little better and centered the text and pictures along with the h1 element to make it look like a button.
+
+
 
                                          !!!!!!!!!!!!!!!!!!!TIME FOR ALL ThE CHARTS!!!!!!!!!!!!!!!!!!!
                                                        ──────────────────────────────────  
