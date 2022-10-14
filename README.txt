@@ -277,6 +277,34 @@ _____██░░░░░░░░░██
 
 2:17pm finished adding all of the seedData and wow did that take long... SHESSSSSSSSSSSSSSSSSSSSSSSSHHHHHHHHHHHHHHHHHHHHH
 
+2:20pm I will now take a break my fingers are about to fall off and I think I have developed carpal tunnel syndrome :{}
+
+Art by Horroroso
+      _ _,---._
+   ,-','       `-.___
+  /-;'               `._
+ /\/          ._   _,'o \
+( /\       _,--'\,','"`. )
+ |\      ,'o     \'    //\
+ |      \        /   ,--'""`-.
+ :       \_    _/ ,-'         `-._
+  \        `--'  /                )
+   `.  \`._    ,'     ________,','
+     .--`     ,'  ,--` __\___,;'
+      \`.,-- ,' ,`_)--'  /`.,'
+       \( ;  | | )      (`-/
+         `--'| |)       |-/
+           | | |        | |
+           | | |,.,-.   | |_
+           | `./ /   )---`  )
+          _|  /    ,',   ,-'
+ -hrr-   ,'|_(    /-<._,' |--,
+         |    `--'---.     \/ \
+         |          / \    /\  \
+       ,-^---._     |  \  /  \  \
+    ,-'        \----'   \/    \--`.
+   /            \              \   \
+
 
 Date: 10 13 2022
 
