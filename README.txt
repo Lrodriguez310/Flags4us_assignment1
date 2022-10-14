@@ -226,6 +226,9 @@ _____██░░░░░░░░░██
 12:52 pm added a scaffolding by right clicking controllers and going into MVC Controller with views, using Entity Framework > Add.
 
 
+1:20pm created and edited my own database mvcFlagscontext.db lets get it!
+
+
 1:45pm had a hard time accessing the Crud pages but eventually changed the asp controller to Flags which lead me to the crud pages needed for the project.
 
 
