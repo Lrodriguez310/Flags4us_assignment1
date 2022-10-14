@@ -242,6 +242,8 @@ _____██░░░░░░░░░██
 
 Date: 10 13 2022
 
+11:30 pm  - Had to get my project from github / cloned repository into this cpu now I can start and continue where I left off!
+
 12:20PM - ADDED display name Release date instead of ReleaseDate to flag.cs and added currency and datatype to the seeddata
 
 
