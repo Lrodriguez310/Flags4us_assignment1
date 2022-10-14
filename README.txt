@@ -266,6 +266,11 @@ Date: 10 13 2022
 9:05pm I updated the fonts again to make it look a little better and centered the text and pictures along with the h1 element to make it look like a button.
 
 
+10/14/2022
+
+3:04pm updated css adding background color text color etc. Found a beautiful gradient with zig zags and salmon mixed with grey to entertain the visitors.
+
+
 
                                          !!!!!!!!!!!!!!!!!!!TIME FOR ALL ThE CHARTS!!!!!!!!!!!!!!!!!!!
                                                        ──────────────────────────────────  
