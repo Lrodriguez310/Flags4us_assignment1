@@ -7,7 +7,7 @@ Program purpose: To create a program to sell flags and show everyone the types o
 
 Date created: 10/12/2022 8:10 am
 
-Date last edited: 10/14/2022 @3:24pm
+Date last edited: 10/15/2022 @3:24pm
 
 
 I LEFT ASCII ART THROUGHOUT THE READ ME TO KEEP YOU ENTERTAINED. PLEASE ENJOY PROFESSOR :)
@@ -367,6 +367,11 @@ Date: 10 13 2022
 
 3:23pm played around with some of the gradients, I really like the cubed gradient so I will stick to that one. I think it will capture the visitors attention. I have to make sure to change the color
 of the font so that it doesn't clash with the background.
+
+
+10/14/2022
+
+Project is complete @ 4:30pm on 10/14 / 2022
 
 
 
